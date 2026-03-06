@@ -1,1 +1,1 @@
-https://github.com/dao0612-dot/deepLearning_test/releases/download/keras/best-cnn_model.park_seungho.keras
+[![Model Download](https://img.shields.io/badge/Model-Download-blue?style=for-the-badge&logo=keras)]([여기에_복사한_링크_붙여넣기](https://github.com/dao0612-dot/deepLearning_test/releases/download/keras/best-cnn_model.park_seungho.keras))
